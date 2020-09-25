@@ -13,7 +13,7 @@
   "get_started": {
     "welcome": "Salut {{userFirstName}}! Je sais que vous désirez faire de votre internet une source de revenue et laissez-moi vous dire que vous êtes au bon endroit.",
     "guidance": "À tout moment, utilisez le menu ci-dessous pour parcourir les fonctionnalités",
-    "help": "Comment pouvons-nous vous aider aujourd’hui ?"
+    "help": "Comment pouvons-nous vous aider donc ?"
   },
   "leadgen": {
     "promo": "Salut {{userFirstName}}, trouver de supers tenues est désormais plus facile et plus pratique.",
